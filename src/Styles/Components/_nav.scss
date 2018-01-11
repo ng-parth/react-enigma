@@ -4,7 +4,7 @@
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16);
     font-size: 16px;
     line-height: 20px;
-
+    margin-bottom: 20px;
 }
 .logo {
     text-decoration: none;
@@ -13,4 +13,5 @@
 .login {
     float: right;
     color: $white;
+    cursor: pointer;
 }
